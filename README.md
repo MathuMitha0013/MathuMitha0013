@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Mathu Mitha A 👋</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7e22ce,100:c084fc&height=230&section=header&text=Mathu%20Mitha%20A&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descSize=20&descAlignY=60" alt="Mathu Mitha A header" />
+</p>
 
 <p align="center">
-  B.Tech Information Technology student · Full-Stack & AI Developer · Microsoft Certified Azure Administrator
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN+%7C+FastAPI);Cloud+Computing+Enthusiast;Microsoft+Certified+Azure+Administrator+(AZ-104);Building+secure%2C+reliable+software" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -14,10 +18,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a third-year B.Tech IT student at KPR Institute of Engineering and Technology who enjoys building reliable, well-tested software. Through two Infosys Springboard internships, I've built a MERN-stack civic engagement platform and an AI-powered code security tool. I'm passionate about problem-solving, secure application design, and learning new technologies.
+I'm a Full Stack Developer and cloud computing enthusiast, currently pursuing B.Tech in Information Technology at KPR Institute of Engineering and Technology. I'm a Microsoft Certified Azure Administrator Associate (AZ-104) who enjoys building reliable, well-tested web applications. Through two Infosys Springboard internships, I've built a MERN-stack civic engagement platform and an AI-powered code security tool.
 
-- 🔭 Currently building: full-stack and AI-assisted developer tools
-- 🌱 Currently strengthening: Data Structures & Algorithms, cloud (Azure), and secure coding
+- 🔭 Currently building: full-stack web applications and AI-assisted developer tools
+- ☁️ Currently exploring: cloud deployment on Microsoft Azure, Docker, and secure coding
+- 🌱 Currently strengthening: Data Structures & Algorithms
 - 🤝 Open to: internships, collaborations, and open-source contributions
 
 ---
@@ -126,3 +131,7 @@ A web platform connecting citizens with local officials through petitions, commu
 ## 📫 Let's Connect
 
 I'm always happy to talk about software, security, and AI. Reach me on [LinkedIn](https://www.linkedin.com/in/mathu-mitha-a) or at **mathu.mitha.a.tech@gmail.com**.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7e22ce,100:c084fc&height=120&section=footer" alt="footer" />
+</p>
