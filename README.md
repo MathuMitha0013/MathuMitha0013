@@ -69,7 +69,7 @@ A code inspection platform that analyzes code quality, complexity, and potential
 - AI-assisted remediation that explains issues and suggests fixes
 - Validated with **59/59 passing automated tests**
 
-🔗 [View repository](https://github.com/YOUR_USERNAME/secoria)
+🔗 [View repository](https://github.com/MathuMitha0013/secoria)
 
 ### 🏛️ Civix – Digital Civic Engagement & Petition Platform
 *MongoDB · Express.js · React.js · Node.js*
@@ -80,7 +80,7 @@ A web platform connecting citizens with local officials through petitions, commu
 - Petition creation and tracking, poll moderation, status tracking, and analytics
 - REST APIs and database operations for petitions, polls, and user activity
 
-🔗 [View repository](https://github.com/YOUR_USERNAME/civix)
+🔗 [View repository](https://github.com/Nehayadav42/internship_infosys_2025_civix_team_02)
 
 ---
 
@@ -117,8 +117,8 @@ A web platform connecting citizens with local officials through petitions, commu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MathuMitha0013&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathuMitha0013&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
