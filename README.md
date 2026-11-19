@@ -130,7 +130,7 @@ A web platform connecting citizens with local officials through petitions, commu
 
 ## 📫 Let's Connect
 
-I'm always happy to talk about software, security, and AI. Reach me on [LinkedIn](https://www.linkedin.com/in/mathu-mitha-a) or at **mathu.mitha.a.tech@gmail.com**.
+I'm always happy to talk about software, security, and AI. Reach me on [LinkedIn](https://www.linkedin.com/in/mathu-mitha-a-3a6a41327/) or at **mathu.mitha.a.tech@gmail.com**.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7e22ce,100:c084fc&height=120&section=footer" alt="footer" />
